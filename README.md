@@ -1,5 +1,5 @@
 # Fake-news-authenticator-
-**Contributiors**:
+**Contributiors:**
 •John Ufuoma Idhomi 
 •Ibrahim Sheriff Muhammed 
 •Oludele-Ajiboye Daniel
